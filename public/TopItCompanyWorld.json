@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "companyName": "Microsoft",
+        "companyLogo": "https://i.ibb.co/ThS3SzB/5.png"
+    },
+    {
+        "id": 1,
+        "companyName": "IBM",
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/800px-IBM_logo.svg.png"
+    },
+    {
+        "id": 1,
+        "companyName": "Google",
+        "companyLogo": "https://i.ibb.co/3f0mLNN/4.png"
+    }
+]

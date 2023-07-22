@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "companyName": "Brain Station 23",
+        "companyLogo": "https://clutchco-static.s3.amazonaws.com/s3fs-public/logos/brain_station_23_limited_logo.png?VersionId=HNRekJ6DZILBplot6YTV1w4CIK2U87VW"
+    },
+    {
+        "id": 1,
+        "companyName": "TigerIT",
+        "companyLogo": "https://media.licdn.com/dms/image/C510BAQFYFxqt1fCdww/company-logo_200_200/0/1547096363931?e=2147483647&v=beta&t=SRmggNjqyOrGSi3mi6kpMQK01qrcfgDUVT9wpJ1fWg8"
+    },
+    {
+        "id": 1,
+        "companyName": "Datasoft",
+        "companyLogo": "http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png"
+    }
+]
