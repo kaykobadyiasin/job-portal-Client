@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "positionName": "Software Engineer",
+      "jobLocation": "San Francisco, CA",
+      "companyName": "TechCo Inc.",
+      "companyLogo": "https://example.com/logos/techco.png"
+    },
+    {
+      "id": 2,
+      "positionName": "Data Analyst",
+      "jobLocation": "New York, NY",
+      "companyName": "DataTech Corp.",
+      "companyLogo": "https://example.com/logos/datatech.png"
+    },
+    {
+      "id": 3,
+      "positionName": "Web Developer",
+      "jobLocation": "Austin, TX",
+      "companyName": "WebWorks LLC",
+      "companyLogo": "https://example.com/logos/webworks.png"
+    },
+    {
+      "id": 4,
+      "positionName": "Network Administrator",
+      "jobLocation": "Seattle, WA",
+      "companyName": "ConnectX",
+      "companyLogo": "https://example.com/logos/connectx.png"
+    },
+    {
+      "id": 5,
+      "positionName": "UI/UX Designer",
+      "jobLocation": "Chicago, IL",
+      "companyName": "DesignHub",
+      "companyLogo": "https://example.com/logos/designhub.png"
+    },
+    {
+      "id": 6,
+      "positionName": "Product Manager",
+      "jobLocation": "Los Angeles, CA",
+      "companyName": "InnovateNow",
+      "companyLogo": "https://example.com/logos/innovatenow.png"
+    }
+  ]
