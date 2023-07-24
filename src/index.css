@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-tabs__tab--selected{
+    /* background-color: lightblue !important; */
+    border-top: 2px solid #60A5FA !important;
+    border-right: 1px solid #60A5FA !important;
+    border-left: 1px solid #60A5FA !important;
+    transition: .3s;
+}
+.workContainer{
+    position: relative;
+}
+.work{
+    position: absolute;
+    top: 0;
+    transition: .9s;
+}
+.workContainer:hover .work{
+    top: -450px;
+}
