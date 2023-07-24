@@ -3,7 +3,6 @@ import { useForm } from "react-hook-form"
 import Swal from 'sweetalert2';
 
 const FresherJobPoster = () => {
-
     const { register, handleSubmit, reset } = useForm();
     const onSubmit = (data) => {
         const freshJob = {

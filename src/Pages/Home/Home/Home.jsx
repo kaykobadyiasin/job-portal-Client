@@ -45,7 +45,6 @@ const Home = () => {
             .then(data => setTopItCompanyWorld(data))
     }, [])
 
-
     return (
         <div className='w-10/12 mx-auto my-10'>
             <div className='mb-20'>
